@@ -1,0 +1,4 @@
+you can run sitemap builder by command line argu
+if you are using linux : python3 sitemap.py https://www.urdupoint.com/
+or
+if you are windows so please replace python3 to python 
